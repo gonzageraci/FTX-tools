@@ -1,0 +1,4 @@
+SNXapiKey = "v9QSd-nbn3WmI1bdNpc18jwQFM4Tg__JB4-9kqXW"
+SNXapiSign = "OXcariY8yDLbZd0vcx_VW5u6hGkPZXUdtLbqaBSe"
+PAXGapiKey = "6sOR-1zfl4XZpnYZLURJ_EqTFYzZF6e8M0N7GUed"
+PAXGapiSign = "XleOY4avDL6EF4F35IMfEfuKW3WAAJ6ejKBXgPEW"
